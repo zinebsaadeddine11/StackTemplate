@@ -16,9 +16,10 @@ Les opérations principales implémentées incluent :
 - pop() - Retirer l'élément au sommet de la pile
 - top() / peek() - Consulter l'élément au sommet sans le retirer
 - vide() - Vérifier si la pile est vide
+- plein() - Vérifier si la pile est pleine
 
 ## 📁 Structure du Projet
 
-- Stack.h/cpp          # Implémentation de base de la pile
-- StackTemplate.cpp    # Exemple d'utilisation
+- # Stack.h/cpp          : Implémentation de base de la pile
+- # StackTemplate.cpp    : Exemple d'utilisation
 
