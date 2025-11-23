@@ -20,6 +20,6 @@ Les opérations principales implémentées incluent :
 
 ## 📁 Structure du Projet
 
-- # Stack.h/cpp          : Implémentation de base de la pile
-- # StackTemplate.cpp    : Exemple d'utilisation
+-  Stack.h/cpp          : Implémentation de base de la pile
+-  StackTemplate.cpp    : Exemple d'utilisation
 
