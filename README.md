@@ -18,5 +18,9 @@ Les opérations principales implémentées incluent :
 - vide() - Vérifier si la pile est vide
 
 ## 📁 Structure du Projet
-<img width="1366" height="781" alt="image" src="https://github.com/user-attachments/assets/7b629f21-8966-4392-8fe0-b22bf94da420" />
+StackTemplate/
+├── Stack/
+│   ├── Stack.h/cpp          # Implémentation de base de la pile
+│   └── StackTemplate.cpp    # Exemple d'utilisation
+└── README.md
 
