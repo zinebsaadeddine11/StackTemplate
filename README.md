@@ -21,5 +21,6 @@ vide() - Vérifier si la pile est vide
 StackTemplate/
 ├── Stack/
 │   ├── Stack.h/cpp          # Implémentation de base de la pile
+|
 │   ├── StackTemplate.cpp   # Exemple d'utilisation
 └── README.md
